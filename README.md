@@ -7,15 +7,22 @@ A small electronic pad used for timer and other cool stuff!
 
 <img width="700" height="500" alt="Screenshot 2026-09-25 at 8 32 41 PM" src="https://github.com/user-attachments/assets/05148b7b-2c4c-46f1-a0b2-d818f2af1fe0" />
 
+
+
+
+<br><br>
 2D pcb image:
 
 
 <img width="700" height="500" alt="Screenshot 2026-09-25 at 8 33 00 PM" src="https://github.com/user-attachments/assets/e3d79a3a-f278-4842-a478-dec48a0d70ca" />
 
-
+<br><br>
 eykNano is a multifunctional pad. It has a RaspberryPi Pico microcontroller, and is minimalistic and compact. (67x62mm)
 The microcontroller is a RaspberryPi Pico, so it has a built in Micro-USB Type-B port.
 
+
+
+<br><br>
 Schematic image:
 
 
@@ -33,4 +40,10 @@ I will start with these basic three functions for this:
 -<b>A reaction time test.</b> All the LEDS will flash on for a few seconds (randomized) and they will all turn off at the same time. The player has to press the (OK) button. Then, the lights will represent (in binary, milliseconds) how much time it took for you to press the button. (I might deduct a few milliseconds if there is a delay on pressing the button and the lights turning off)
 
 Of course, that's not the only functions I will put for this project. I will add more cool features eventually.
+
+<br><br>
+BOM:
+
+<img width="1842" height="563" alt="Screenshot 2026-09-26 at 10 34 38 AM" src="https://github.com/user-attachments/assets/bf3d5e7e-0f93-442c-ada5-edbe1c602c1c" />
+
 
