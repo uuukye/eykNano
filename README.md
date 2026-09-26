@@ -1,11 +1,17 @@
 # eykPad_nano
 A small electronic pad used for timer and other cool stuff!
 
+3D pcb image:
 <img width="700" height="500" alt="Screenshot 2026-09-25 at 8 32 41 PM" src="https://github.com/user-attachments/assets/05148b7b-2c4c-46f1-a0b2-d818f2af1fe0" />
+
+2D pcb image:
+<img width="700" height="500" alt="Screenshot 2026-09-25 at 8 33 00 PM" src="https://github.com/user-attachments/assets/e3d79a3a-f278-4842-a478-dec48a0d70ca" />
+
 
 eykNano is a multifunctional pad. It has a RaspberryPi Pico microcontroller, and is minimalistic and compact. (67x62mm)
 The microcontroller is a RaspberryPi Pico, so it has a built in Micro-USB Type-B port.
 
+Schematic image:
 <img width="700" height="500" alt="Screenshot 2026-09-26 at 9 09 59 AM" src="https://github.com/user-attachments/assets/888601f3-bc9b-4418-bfe7-8d4b100cf0e2" />
 
 The schematic is pretty simple. In the project, I added <b>nine</b> led lights, each with different color, <b>three</b> 
